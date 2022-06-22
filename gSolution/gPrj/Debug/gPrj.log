@@ -1,0 +1,9 @@
+﻿  gPrjDlg.cpp
+  DlgImage.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  gPrj.cpp
+  코드를 생성하고 있습니다...
+gPrjDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  gPrj.vcxproj -> C:\Sonun_Project\mfcExam\gSolution\Debug\gPrj.exe
+  gPrj.vcxproj -> C:\Sonun_Project\mfcExam\gSolution\Debug\gPrj.pdb (Partial PDB)
